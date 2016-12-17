@@ -19,14 +19,15 @@ He was complimented by the GDG mentor Nsubuga Hassan who explained what GDG DevF
 Chris gave us an overview about the google cloud platform and how we could utilise it as developers. He pointed out the fact that the platform offers infrastructure that is secure , global, cost effective and constantly improving. Not to forget the fact that it offers amazing big data capabilities.  
 
 He explained that the platform has everything developer's need to build And scale as below;  
-* Compute *
-* Storage and Databases *
-* Networking *
-* Big Data *
-* Machine Learning *
-* Management Tools *
-* Developer Tools *
-* Identity & Security *
+
+*Compute* 
+*Storage and Databases*
+*Networking*
+*Big Data*
+*Machine Learning*
+*Management Tools*
+*Developer Tools*
+*Identity & Security*
 
 He also encouraged participants to join the Google Developer Expert program from this region.  
 
