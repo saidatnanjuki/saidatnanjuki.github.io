@@ -31,7 +31,7 @@ He explained that the platform has everything developer's need to build And scal
 
 He also encouraged participants to join the Google Developer Expert program from Uganda.  
 
-**Africa is talking by Nicholas kamanzi**
+**About Africa is talking by Nicholas kamanzi**
 <img src="assets/kmn.jpg" title="Profile Picture" class="profile">
 
 Nicholas from Africa is talking gave us an overview of how Africa is talking can provide a way through and API for people and companies across about 7 markets on the African continent to connect via SMS messages.  
