@@ -29,7 +29,7 @@ He explained that the platform has everything developer's need to build And scal
 *Developer Tools* , 
 *Identity & Security* , 
 
-He also encouraged participants to join the Google Developer Expert program from this region.  
+He also encouraged participants to join the Google Developer Expert program from Uganda.  
 
 **Africa is talking by Nicholas kamanzi**
 <img src="assets/kmn.jpg" title="Profile Picture" class="profile">
