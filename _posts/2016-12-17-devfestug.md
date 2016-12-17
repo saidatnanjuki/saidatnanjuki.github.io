@@ -20,14 +20,14 @@ Chris gave us an overview about the google cloud platform and how we could utili
 
 He explained that the platform has everything developer's need to build And scale as below;  
 
-*Compute* 
-*Storage and Databases*
-*Networking*
-*Big Data*
-*Machine Learning*
-*Management Tools*
-*Developer Tools*
-*Identity & Security*
+*Compute* ,  
+*Storage and Databases* , 
+*Networking* , 
+*Big Data* , 
+*Machine Learning* , 
+*Management Tools* , 
+*Developer Tools* , 
+*Identity & Security* , 
 
 He also encouraged participants to join the Google Developer Expert program from this region.  
 
@@ -38,7 +38,7 @@ Nicholas from Africa is talking gave us an overview of how Africa is talking can
 
 Africa is talking offers bulk SMS, short codes and premium SMS, USSD, MMS and customized mobile messaging solutions for individuals, businesses and developers. The API allows users to integrate the service to build SMS based apps. With the API developers can connect a short code, use an alphanumeric sender id and send SMS messages across Kenya. Users need to register to access documentation.  
 
-**Design by Brian Lamtoo **
+**Design by Brian Lamtoo**
 <img src="assets/brian.jpg" title="Profile Picture" class="profile">
 
 He gave us an idea on how we can use the firebase platform to develop their backend. He also gave us an overview on how we could use material design to enrich our designs for diffrent devices.  
