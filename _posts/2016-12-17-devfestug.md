@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All you missed at GDG DevFest Central Uganda
+title: All you missed at GDG DevFest Central Uganda-2016
 comments: true
 ---
 
