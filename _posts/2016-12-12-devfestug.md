@@ -14,6 +14,8 @@ He was complimented by the GDG mentor Nsubuga Hassan who explained what GDG DevF
 
 **Google Cloud Platform by chris Onyacha**
 
+<img src="{{ site.baseurl }}/chris.jpg" title="Profile Picture" class="profile"> 
+
 Chris gave us an overview about the google cloud platform and how we could utilise it as developers. He pointed out the fact that the platform offers infrastructure that is secure , global, cost effective and constantly improving. Not to forget the fact that it offers amazing big data capabilities.  
 
 He explained that the platform has everything developer's need to build And scale as below;  
@@ -29,16 +31,19 @@ He explained that the platform has everything developer's need to build And scal
 He also encouraged participants to join the Google Developer Expert program from this region.  
 
 **Africa is talking by Nicholas kamanzi**
+<img src="{{ site.baseurl }}/kmn.jpg" title="Profile Picture" class="profile">
 
 Nicholas from Africa is talking gave us an overview of how Africa is talking can provide a way through and API for people and companies across about 7 markets on the African continent to connect via SMS messages.  
 
 Africa is talking offers bulk SMS, short codes and premium SMS, USSD, MMS and customized mobile messaging solutions for individuals, businesses and developers. The API allows users to integrate the service to build SMS based apps. With the API developers can connect a short code, use an alphanumeric sender id and send SMS messages across Kenya. Users need to register to access documentation.  
 
 **Design by Brian Lamtoo **
+<img src="{{ site.baseurl }}/brian.jpg" title="Profile Picture" class="profile">
 
 He gave us an idea on how we can use the firebase platform to develop their backend. He also gave us an overview on how we could use material design to enrich our designs for diffrent devices.  
 
 **Panel Discussion**
+<img src="{{ site.baseurl }}/panel.jpg" title="Profile Picture" class="profile"> 
 
 The audience had a chance to ask the brilliant panel some of their questions. The questions ranged from all aspects  technical and enterpreneurial.   
 
