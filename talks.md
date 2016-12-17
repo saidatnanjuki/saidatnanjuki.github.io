@@ -24,7 +24,7 @@ the-way-ahead-how-drones-sensors-and-apps-are-rewriting-the-rules-in-agriculture
 the-way-ahead-how-drones-sensors-and-apps-are-rewriting-the-rules-in-agriculture)<br>
 **Video URL :** N/A<br>
 
-**Conference :** Geek Night Kampala<br>
+**Conference :** Geek Night Kampala, Thoughtworks , Kampala<br>
 **Title :** The Transition from Continous Integration to Continous Delivery<br>
 **Slide URL :** [slides](http://www.slideshare.net/njoannah/transition-from-ci-to-cd)<br>
 **Video URL :** N/A<br>
