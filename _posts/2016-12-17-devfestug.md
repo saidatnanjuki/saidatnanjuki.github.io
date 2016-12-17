@@ -57,8 +57,10 @@ One question that stood out was on how developers can effectively make money fro
 All panelists finally advised on major points to consider while running and scaling startups. Alot of advise pointedout the fact that startups need to ensure that they are solving a problem , can convince an investor and ensure that they can convice 10 people who love them before they launch.Starups were also advised to launch as early as possible to get feedback and iterate wherever they are getting it wrong.  
 
 **Swagg**
+<img src="assets/swagg.jpg" title="Profile Picture" class="profile"> 
 
-And yeah , Finally I walked away with swagg from google.Not for blogging by the way every participant got.
+
+And yeah , Finally I walked away with swagg from google.Every participant got.
 
 
 
