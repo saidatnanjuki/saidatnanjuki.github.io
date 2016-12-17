@@ -7,7 +7,7 @@ permalink: /talks/
 <br>
 
 <!-- <img src="{{ site.baseurl }}/index.jpg" title="Profile Picture" > -->
-
+**Conference :** PyConZA, Cape Town , South Africa <br>
 **Title :** Contributing to python open source Infrastructure and projects<br>
 **Slide URL :** [slides](https://archive.org/details/pyconza2016-Contributing_to_python_open_source_Infrastructure_and_projects)<br>
 **Video URL :** [Video](https://2016.za.pycon.org/talks/65/ )<br>
