@@ -1,6 +1,6 @@
 ---
 title: "The Way Ahead: How Drones, Sensors and Apps are rewriting the rules in Agriculture"
-subtitle: "
+subtitle:
 event: "Smart Automation conference"
 event-fulltitle:
 event-url: 
