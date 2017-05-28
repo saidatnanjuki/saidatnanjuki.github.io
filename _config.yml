@@ -3,17 +3,17 @@
 title: Joannah Nanjekye
 name: Joannah Nanjekye
 subtitle: Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
-email: nanjekyejoannah@gmail.com
+email: nnanjekyejoannah@gmail.com
 description: >
-  Talking about Code, Aircrafts and anything else. Remember opions = my own .
+  Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
 baseurl: ""
 url: "https://nanjekyejoannah.github.io/"
-twitter_username: JoannahNanjekye
+twitter_username: Captain_Joannah
 github_username:  nanjekyejoannah
 disqus_baseurl: "https://nanjekyejoannah.github.io/"
 disqus_shortname: https-nanjekyejoannah-github-io
 permalink: :title
-cover: "/assets/sky2.jpeg"
+cover: "/assets/header_image.jpg"
 logo: "/assets/index.jpeg"
 ga_tracking_id: "UA-82647777-1"
 
@@ -40,16 +40,44 @@ gems:
 
 exclude:
   - "/vendor/"
+
+# Collections
+collections:
+  - talks
+
+#
+# Social settings are used in two places:
+# * In the footer, as links to your personal profiles
+# * After each blog post for sharing widgets
+#
+# Example:
+#
+# social:
+#   - name: Twitter                         # Name of the service
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#     username: "@TheBenCentra"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     share: true                           # Include in the "Share" section of posts
+
 social:
   - name: Twitter
     icon: twitter
-    url: https://twitter.com/JoannahNanjekye
+    username: Captain_Joannah
+    url: https://twitter.com/Captain_Joannah
     desc: Follow me on Twitter
+    share: true
+
+  - name: Quora
+    icon: quora
+    username: nanjekyejoannah
+    url:
+    desc: Follow me on Quora
     share: true
 
   - name: GitHub
     icon: github
-    username: nanjekyejoannah
+    username: nikhita
     url: https://github.com/nanjekyejoannah
     desc: Fork me on GitHub
     share: false
@@ -57,7 +85,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Joannah Nanjekye
-    url: https://ug.linkedin.com/in/nanjekye-joannah-850b784a
+    url: https://www.linkedin.com/in/nanjekye-joannah/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -144,11 +172,15 @@ social:
     url:
     desc: Share to Hacker News
     share: false
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "/assets/index.jpeg"
     fb_image_width: 612
     fb_image_height: 605
-    fb_image_type: "image/jpeg"
+    fb_image_type: "image/jpg"
 
     twitter_image: "/assets/index.jpeg"
 
