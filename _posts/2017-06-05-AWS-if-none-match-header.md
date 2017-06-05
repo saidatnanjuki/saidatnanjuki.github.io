@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS : Adding if-none-match headers on UploadInput(Golang).
+title: Adding AWS if-none-match headers on UploadInput(Golang)
 comments: true
 ---
 
@@ -12,7 +12,7 @@ Now there is an [AWS Go SDK](https://github.com/aws/aws-sdk-go) that we use to i
 
 After rigorous and persistent search (with rumblings ofcorse) on the internet I got to find out that actually the AWS Go SDK S3 team needs to add this feature to their public API. It is a [feature request](https://www.bountysource.com/issues/45142786-feature-request-ifnonematch) that was reported like three weeks when i tried to access it. However below is a work around that saved my day.
 
-func WithIfNoneMatch(conditions ...string) request.Option {
+`func WithIfNoneMatch(conditions ...string) request.Option {
     return func(r *request.Request) {
        for _, v := range conditions {
             r.HTTPRequest.Header.Add("If-None-Match", v)
@@ -26,7 +26,7 @@ svc.PutObjectwithContext(ctx, &s3.PutObjectInput{
     Key:      aws.String(myKey),
     Body:    reader,
     // Other parameters...
-}, WithIfNoneMatch("etag")
+}, WithIfNoneMatch("etag")`
 
 Happy hacking, I am now on to connecting my tests to RGW on my summer outreachy project. 
 
