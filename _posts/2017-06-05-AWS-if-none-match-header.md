@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding if-none-match headers on UploadInput and MultiPartUpload Input the Golang way.
+title: AWS : Adding if-none-match headers on UploadInput(Golang).
 comments: true
 ---
 
