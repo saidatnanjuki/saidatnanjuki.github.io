@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Open Source : My Journey to Infinity and Beyond
+title:  My Journey to Infinity and Beyond
 comments: true
 ---
-
 This is a tale of a dream come true. This story starts way back in 2016. I was working as a software developer in one of the tech firms in Uganda at the time. I was not happy and had decided that I rather go back to school to pursue my Aeronautical Engineering career. I have always had a craving to contribute to open source but did not know where to start. 
 
 I kept reading people's Github profiles in admiration of especially people that had repositories in the category of "Repositories they contribute to". I wanted this on my profile too but did not know how to. I did not have many experienced developers in my circles atleast so this kind of information I did not get easily.
