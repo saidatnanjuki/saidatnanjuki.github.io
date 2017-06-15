@@ -17,7 +17,7 @@ RGSoC was a huge success and a very memorable experience for me as I opened my f
 
 Through RGSoC I was also able to get a diversity grant to attend and speak at pyconZA, an opportunity that I have cherished todate because the conference opened my mind to many ideas. I gave a talk on [how to contribute to python open source](https://speakerdeck.com/pyconzacontributing-to-python-open-source-infrastructure-and-projects-by-joannah-nanjekye/)
 
-### And Now : Ceph Outreachy Intern working on multilanguage RGW Testing
+### Now : Ceph Outreachy Intern working on multilanguage RGW Testing
 
 After RGSoC which was September 2016, I attempted to apply for Outreachy in the December 2016 round with Mozzilla. I did not get through but one secret is you always learn alot through the application process. I did not get in but learned a new programming language Golang that am using on my current project. To be honest I felt so frustrated not being accepted but I can not underestimate the skills I got in the whole process. I howver also noted the mistakes I had done.My proposal was not as good.
 
@@ -32,6 +32,10 @@ I applied to ceph because of how interesting the project was. I anticipated I wo
 The project entails writing tests for aws using amazon Go, Java and C++ SDKS. RGW features an AWS s3 like interface against which tests are to be run. Ceph already had a python test suite that was testing RGW and my work was to extend the tests the other three languages. 
 
 I am very willing to guide some one if they want to contribute to these tests suites as well. There are many tests to implement so feel free to reach out if interested.
+
+### Future : A luta continua
+
+My future in open source presents limitless opportunities. There are many places you can be but you will never be every where.I will consistently continue to contribute to the projects I started especially with ceph. I have this passion for [PYPY](https://bitbucket.org/pypy/pypy) and believe it has a whole future a head of it because it is solving a common problem. I will thefore keep sending some patches to [pypy](https://bitbucket.org/pypy/pypy) and [qutebrowser](https://github.com/qutebrowser/qutebrowser) most likely after Outreachy because I have alot to do. 
 
 ### Lessons I have learned
 
@@ -57,6 +61,10 @@ People always succeed after trying and failing a couple of times. If you have ne
 
 If I said the journey is smooth, it would be the lie of the century. Some reviews will frustrate you, the code will jam at times, you will burn the midnight candle at times, meet mean people. Always remember to keep calm and continue hacking. May you have the calmness to ignore the things that dont matter , the focus for things that matter and the ability to know the difference!!!
 
+### You wont walk the Journey alone
+
 Whatever you want to achieve will cost you a little patience and commitment.There are people that have walked this path.Many communities exist with people very willing to guide you on the open source journey. I have been previledged to know about the [The Open source help community](https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources). A community full of individuals that want to help others to start contributing. You can reach any one there for help and join the monthly chats with experts that have walked the open source path.
+
+Maintainers are always happy to guide new contributors. There may be those exaggarated scenarios where mentors are not friendly but these are few.You just need to find a project you want to contribute to and reach out to the maintainers to see what you can work on. The best project to work on is for a project you use because then you can easily even suggest improvements to it because you are a user.
 
 See you at the top!!!!
