@@ -40,11 +40,11 @@ This worked fine with guidance from my mentors.
 
 After setting up, I developed a skeleton of the project and before I could write any tests I had to do some hackery to connect to RGW(rados gate way ). Fortunately my mentor had a working Go client that connects to RGW (rados gate way )which I gladly reverse engineered to meet the project needs and was able to hook my tests to RGW(rados gate way).
 
-### Written 30 running tests so far
+### Written 25 running tests so far
 
 After connecting to RGW for the s3 interface, I started working on the tests. My mentor asked me to implement eight tests annotated with explanations in comments to see if I understand their goal. I did this and got feedback on the same. 
 
-After this task, I was then started implementing the tests on bucket and object operations. I have written thirty tests to date and still getting feedback as I write more tests.
+After this task, I was then started implementing the tests on bucket and object operations. I have written 25 tests to date and still getting feedback as I write more tests.
 
 The feedback was about:
 
