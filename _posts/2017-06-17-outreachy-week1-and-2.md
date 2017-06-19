@@ -4,7 +4,7 @@ title: Outreachy With Ceph - Week 1 and 2
 comments: true
 ---
 
-# Working on Multi Language S3 Testing - Golang Test Suite
+# Multi Language S3 Testing - Go TestSuite
 
 ## About the Project
 
