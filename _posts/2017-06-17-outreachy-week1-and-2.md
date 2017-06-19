@@ -51,7 +51,7 @@ After this task, I was then started implementing the tests on bucket and object 
 The feedback was about:
 
 + Ensuring that my codefiles end with newline.
-+ Ensuring that my config is consumable by tethology.
++ Ensuring that my config is consumable by teuthology.
 + Ensuring that the instructions for running the tests actually work.
 
 ## Blockers
@@ -66,7 +66,7 @@ The major capacity building high light in these first two weeks has been being a
 
 ### Working with Go Configuration
 
-I have also learned alot about handling configs with Go. I got to know how to use [viper](https://github.com/spf13/viper) for loading config data. it features simple ways of reading the data as we use the dot notation without need for writing extra structs. Also the fact that it supports all config types really stood out for me as the config type is not tired to the implementation. Therefore a user can decide to use any config type of choice.
+I have also learned alot about handling configs with Go. I got to know how to use [viper](https://github.com/spf13/viper) for loading config data. it features simple ways of reading the data as we use the dot notation without need for writing extra structs. Also the fact that it supports all config types really stood out for me as the config type is not tied to the implementation. Therefore a user can decide to use any config type of choice.
 
 I decided to use .toml config. Implementing this was this simple:
 
