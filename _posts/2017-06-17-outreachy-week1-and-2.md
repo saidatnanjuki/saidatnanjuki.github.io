@@ -1,17 +1,19 @@
 ---
 layout: post
-title: My First Two weeks - Multilanguage RGW Testing - Go Test Suite
+title: Outreachy With Ceph - Week 1 and 2
 comments: true
 ---
 
-## About  Multi Language S3 Testing for RGW Project
+# Working on Multi Language S3 Testing - Golang Test Suite
+
+## About the Project
 
 The project aims at implementing a set of tests to test RGW's S3 interface. RGW features an AWS s3 like interface against which tests are to be run.  Currently there exists a python suite of tests implemented [here](https://github.com/ceph/s3-tests).This test suite uses an SDK from Amazon called Boto, and has 400 some tests in it. The goal for this project is to have other test suites, in other languages specifically (c++ , java and Go), that all test the same subset of the 400 python tests. 
 
 The major deliverables of this project is to implement three test suites in :
 
 + Golang
-+ java and 
++ Java and 
 + C++
 
 If time allows, Then the tests shall also be connected to the Ceph Integration framework called Teuthology.
@@ -22,7 +24,7 @@ If time allows, Then the tests shall also be connected to the Ceph Integration f
 
 I have set up a [project Tracker](https://github.com/nanjekyejoannah/Outreachy-RGW-testing) and [trello board](https://trello.com/b/etwTtnv4/outreachy-rgw-testing) for different people to track progress on the project. The goal is ensure the [Time line](https://docs.google.com/document/d/186YHbdIGi1Ja2X6t24vIufU3pLyBVhKzhskY6Ax_0x4/edit) is followed in order to meet the deliverables. The tracker has a summary of my daily tasks in the [daily log](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Daily%20Logs/logfile.md) and summary of the weekly tasks in the [Week logs](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/tree/master/Coding).
 
-## project repositories
+## Project repositories
 
 I started working on the Golang test suite and the source code lives here:
 
@@ -128,7 +130,7 @@ There is one [issue](https://github.com/nanjekyejoannah/go_s3tests/issues/1) ope
 
 ### Ensure I have 60% test implementation
 
-The next two weeks will be focused on ensuiring a good number oftests implemented in the python test suite is impelemented according to plan before July.
+The next two weeks will be focused on ensuring a good number of tests implemented in the python test suite is impelemented according to plan before July.
 
 ### Integrating to teuthology
 
