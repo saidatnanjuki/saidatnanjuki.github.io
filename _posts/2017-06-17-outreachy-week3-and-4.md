@@ -65,15 +65,15 @@ My code snippet of the week is:
 	  return name
 	}
 
-Because these methods saved more alot of code duplication of more than 50 lines of code.
+Because these methods saved me alot of code duplication of more than 50 lines of code.
 
 ## Community Involvement
 
 I have worked and been mentored by a couple of generous people in the ceph community. 
 
-Special Thanks to marcus for the insightful feedback on the project thus far and providing good fixes when we are stuck. He is the hero for RGW connection. His help was very beneficial.
+Special thanks to marcus for the insightful feedback on the project thus far and providing good fixes when we are stuck. He is the hero for RGW connection. His help was very beneficial.
 
-A loud shout out to  [Robin Johnson](https://github.com/robbat2) for [issue](https://github.com/nanjekyejoannah/go_s3tests/issues/1) and for giving me a long and clear detail on how I should solve it.
+A loud shout out to  [Robin Johnson](https://github.com/robbat2) for opening [issue](https://github.com/nanjekyejoannah/go_s3tests/issues/1) and for giving me a long and clear detail on how I should solve it.
 
 And salute to [Ali Maredia](https://github.com/alimaredia), my mentor for patiently answering all dumb questions in a basic and clear way when am super lost. The Docs that he prepares for me are very detailed and helpful. I think I have the best mentor!!
 
@@ -86,11 +86,13 @@ And salute to [Ali Maredia](https://github.com/alimaredia), my mentor for patien
 + SSE
 + Bucket Lifecycles
 + Multipart Uploads and
-+ host syle
++ host style
 
 2. I will also prepare an update to the ceph-devel mailing list on the project.
 
-3. I will also work on wrap up for this suite and will keep resolving issues that shall be opened as I continue working on other suites till end of the internship. The next suite will be the Java Suite.
+3. I will also work on wrap up for the Go test-suite and will keep resolving issues that shall be opened as I continue working on other suites till end of the internship. The next suite will be the Java Suite.
+
+4. We are also going to discuss teuthology integration for the Go test suite
 
 ## Interested in more Details??
 
