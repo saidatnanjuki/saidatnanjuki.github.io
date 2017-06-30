@@ -7,7 +7,7 @@ comments: true
 
 # [Multi Language S3 Testing - Go TestSuite]()
 
-# Go TestSuite - Major refactors and up to 70 tests written
+# Major refactors and up to 70 tests written
 
 Every one has a plan until they are punched in the face. I had a plan of implementing many many more tests but these weeks turned out to be about alot of refactoring however I also wrote 50 more tests to add to the 25 tests written in the previous period. Let me get to the details quickly.
 
