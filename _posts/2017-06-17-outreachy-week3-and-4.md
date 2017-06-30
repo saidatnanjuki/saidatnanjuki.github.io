@@ -27,7 +27,7 @@ Generally speaking working with the Go AWS SDK has been a journey and I have bee
 
 I implemented 50 more tests on object operations. I implemented most scenarios on setting and listing objects with delimeters, maxkeys, prefixes and markers.
 
-I opened two issues on the [AWS Go SDK](https://github.com/aws/aws-sdk-go/issues/created_by/nanjekyejoannah) for cases where there were failures in the tests I had written. I noticed that I was able to set a negative maxkey and the sdk would process the request which is odd to me. I also noticed one can create a bucket twice and the SDK had no validation for bucket dupliation for this which we also discussed [here](https://github.com/aws/aws-sdk-go/issues/1362).The team generously gave me feedback. 
+I opened two issues on the [AWS Go SDK](https://github.com/aws/aws-sdk-go/issues/created_by/nanjekyejoannah) for cases where there were failures in the tests I had written. I noticed that I was able to set a negative maxkey and the sdk would process the request which is odd to me. I also noticed one can create a bucket twice and the SDK had no validation for bucket dupliation for this. which we also discussed it [here](https://github.com/aws/aws-sdk-go/issues/1362).The team generously gave me feedback. 
 
 My code snippet of the week is:
 
