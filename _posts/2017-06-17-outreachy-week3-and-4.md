@@ -21,7 +21,7 @@ This made me switch to testify/suite from testify/assert for handling my test wo
 
 I also introduced separation of concerns in the utility methods and the actual tests am implementing. I moved all utility logic to a different folder a way from the tests. My decision was based on the fact that we need the test methods to just do assertions and not clatter them with logic.
 
-Generally speaking working with the Go AWS SDK has been a journey and I have been learning better ways of doing things time and again and this has made do alot of refactoring. Even testing with Go has been a journey but am becoming a master every day.
+Generally speaking working with the Go AWS SDK has been a journey and I have been learning better ways of doing things time and again and this has made me do alot of refactoring. Even testing with Go has been a journey but am becoming a master every day.
 
 ### Tests
 
