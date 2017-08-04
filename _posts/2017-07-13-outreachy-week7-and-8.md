@@ -9,7 +9,7 @@ implemented. Let me get to some details on what has and needs to be implemented.
 
 ## What has been implemented
 
-This is a summary of the implemented tests a [commit](https://github.com/nanjekyejoannah/java_s3tests/commits/master) summar would sound 
+This is a summary of the implemented tests a [commit](https://github.com/nanjekyejoannah/java_s3tests/commits/master) summary would sound 
 more elaborate.
 
 + Tests on Basic object and bucket CRUD.
