@@ -8,11 +8,11 @@ This is the last week of outreachy :( and well I am doing the last mile which as
 
 ## AWS4 Tests
 
-I was told by the mentors of the project to priotize testing AWS4 because there were a couple of reported bugs especially on multipart uploads. I implemented about 50 tests testing objects creation with all possible headers and all possible multipart upload scenarios using both High level API and low low leve API for the Java SDK.
+I was told by the mentors of the project to priotize testing AWS4 because there were a couple of reported bugs especially on multipart uploads. I implemented about 50 tests testing objects creation with all possible headers and all possible multipart upload scenarios using both High level API and low level API for the Java SDK.
 
 ## Finished Java Suite
 
-Well I have put a stop to adding more tests to the java suite and for now and ensuring the existing ones are running perfectly well. I have implemented about 170 tests in this suite. 
+Well I have put a stop to adding more tests to the java suite for now and ensuring the existing ones are running perfectly well. I have implemented about 150 tests in this suite. 
 
 I got feedback where my the ceph RGW developers had errors running these tests which I have rectified now and we will review today at a confortable time in their time zone.
 
@@ -31,7 +31,7 @@ To run any tests regarding SSE using the java and Go SDKs, you have to be using 
 
 #### Documentation
 
-To self document the tests in the Java suite, I used the **description** parameter available in the @Test annotation in TestNG with a brief description the goal of each test. I also added a **dependsOnMethods** attribute to indicate the methods the each test depends on for purposes of direction to future contributors to the projects.
+To self document the tests in the Java suite, I used the **description** parameter available in the @Test annotation in TestNG with a brief description the goal of each test.
 
 #### Renaming method names and classes
 
