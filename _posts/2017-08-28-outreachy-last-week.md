@@ -4,7 +4,7 @@ title: Outreachy With Ceph - The last Mile
 comments: true
 ---
 
-This the last week of outreachy :( and well I am doing the last mile which as my mentor says has the most work.I will give a few updates on what has transpired from week 8 given that that is when I last gave any updates.
+This is the last week of outreachy :( and well I am doing the last mile which as my mentor says has the most work.I will give a few updates on what has transpired from week 8 given that that is when I last gave any updates.
 
 ## AWS4 Tests
 
