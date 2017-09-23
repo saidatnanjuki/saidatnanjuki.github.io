@@ -1,4 +1,3 @@
-
 ---
 title: "Faster python programs with pypy"
 subtitle: 
