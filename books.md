@@ -11,8 +11,6 @@ A list of books I have authored.
 <br>
 **<i>Sub Title </i>** With Six and Python-Future
 
-Release Date : October, 2017 (E-Book)
-
-Release Date : January, 22, 2018 (For Paper Back)
+Release Date : January, 22, 2018
 
 Author : Joannah nanjekye
