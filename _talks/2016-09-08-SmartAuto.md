@@ -7,7 +7,4 @@ event-url:
 location: "Nairobi, Kenya"
 slides: "http://www.slideshare.net/njoannah/
 the-way-ahead-how-drones-sensors-and-apps-are-rewriting-the-rules-in-agriculture"
-video: N/A
-post:
-news:
 ---

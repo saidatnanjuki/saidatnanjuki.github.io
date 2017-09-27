@@ -18,7 +18,7 @@ I got feedback where my the ceph RGW developers had errors running these tests w
 
 #### How I solved Challlenges on this suite
 
-Well most of the challenges in exectuting these tests stemed from the teardown method which I was oiginally calling after every method. This caused the ceph logs to over build up and complain of insufficient memory. When I decided to run the tear down after every class, this was solved. This also solved problems where some tests required to be broken down to another separate class to run well. The Go suite works well with teardown method being called after every test method though.
+Well most of the challenges in executing these tests stemed from the teardown method which I was oiginally calling after every method. This caused the ceph logs to over build up and complain of insufficient memory. When I decided to run the tear down after every class, this was solved. This also solved problems where some tests required to be broken down to another separate class to run well. The Go suite works well with teardown method being called after every test method though.
 
 ## Refactoring
 
@@ -36,7 +36,7 @@ To self document the tests in the Java suite, I used the **description** paramet
 #### Renaming method names and classes
 
 Well I also did some renaming of stuff but still did not do much work in ensuring very short names because I did 
-not want to compromise on readability. You know this is hrdest thing in computer science but I tried.
+not want to compromise on readability. You know this is the hardest thing in computer science but I tried.
 
 ## Still in the brewery
 
