@@ -60,7 +60,7 @@ To manage dependecies, I will change to using **dep**.
 
 I am also revisiting testing utility methods though I had flagged this off earlier as not making sense but later noticed tests need to depend on reliable utility methods.
 
-The branch shall be merged to master after we have done rigorous testing with [Ali](https://github.com/alimaredia) the mentor of the project.
+The branch shall be merged to master after we have done rigorous testing with [Ali Maredia](https://github.com/alimaredia) the mentor of the project.
 
 ## Conclusion
 
