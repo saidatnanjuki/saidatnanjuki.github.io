@@ -61,7 +61,7 @@ There are still more scenarios that arent yet tested some specific to the AWS GO
 
 I will make a couple of refactors to make style guide consistencies and remove obvious duplication of methods and other clean ups. I willl also add docmentation that I had overlooked.
 
-The branch shall be merged to master after we have done rigorous testing with [Ali](https://github.com/alimaredia) the mentor of the project.
+The branch shall be merged to master after we have done rigorous testing with [Ali Maredia](https://github.com/alimaredia) the mentor of the project.
 
 I am also revisiting testing utility methods on second thought.
 
