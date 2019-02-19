@@ -8,10 +8,10 @@ permalink: /publications/
 
 **Title :** Design For Women: An E-based platform for reporting and Visualizing data on cases of violence against women.
 
-**Publisher :** Grace Hopper conference 2014  
+**Publisher :** Grace Hopper conference 2016  
 
-**Publication date :** November 2014
+**Publication date :** November 2016
 
 **Publication URL :** [publication url](http://gracehopper.org/posters/)
 
-**Authors :** Joannah Nanjekye , Nekesa Patience , Aitaru Racheal , Nabankema Victoria
+**Authors :** Saidat Nanjuki , Nekesa Patience , Aitaru Racheal , Nabankema Victoria
