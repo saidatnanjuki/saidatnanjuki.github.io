@@ -8,9 +8,7 @@ This is a tale of a dream come true. This story starts way back in 2016. I was w
 I kept reading people's Github profiles in admiration of especially people that had repositories in the category of "Repositories they contribute to". I wanted this on my profile too but did not know how to. I did not have many experienced developers in my circles atleast so this kind of information I did not get easily.
 
 
-My future in open source presents limitless opportunities. There are many places you can be but you will never be every where.I will consistently continue to contribute to the projects I have started especially with ceph. I have this passion for [PYPY](https://bitbucket.org/pypy/pypy) and believe it has a whole future a head of it because it is solving a common problem. I will thefore keep sending some patches to [pypy](https://bitbucket.org/pypy/pypy) and [qutebrowser](https://github.com/qutebrowser/qutebrowser) most likely after Outreachy because I have alot to do now.
-
-### Lessons I have learned
+My future in open source presents limitless opportunities. There are many places you can be but you will never be every where.I will consistently continue to contribute to the projects I have started especially with ceph. I have this passion for [PYPY](https://bitbucket.org/pypy/pypy) and believe it has a whole future a head of it because it is solving a common problem. I will thefore keep sending some patches to [pypy](https://bitbucket.org/pypy/pypy) and [qutebrowser](https://github.com/qutebrowser/qutebrowser).
 
 #### Take every opportunity to invest in others
 
@@ -24,7 +22,7 @@ The other thing you should aim at is bettering the projects you are working on. 
 
 #### Strive to learn from every failure you face
 
-I have failed at many things in that I very much identify with failure. I mean we all fail many times.  The difference between two people that fail is the ability to learn from their mistakes and not repeat them. I failed to get into outreachy for one of the companies in the round I got accepted but from the application process I got inspired to write a book on pyton compatibility. Failure is not bad it depends on how you decide to view it. Also from failing the first time I applied, I endavoured to improve my proposal for the next round. Failure is therefore a learning opportunity.
+I have failed at many things in that I very much identify with failure. I mean we all fail many times.  The difference between two people that fail is the ability to learn from their mistakes and not repeat them. Failure is not bad it depends on how you decide to view it.  Failure is therefore a learning opportunity.
 
 #### Keep trying
 
