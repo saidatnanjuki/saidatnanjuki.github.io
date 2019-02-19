@@ -4,7 +4,6 @@ title: Saidat Nanjuki
 name: Saidat Nanjuki
 subtitle: Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
 email: saidatnanjuki@gmail.com
-LinkedIn: saidat nanjuki
 description: >
   Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
 baseurl: ""
@@ -28,7 +27,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Joannah Nanjekye"
+      author: "Saidat Nanjuki"
 
 
 # External gems
@@ -55,30 +54,30 @@ collections:
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     username:             # (User) Name to display in the footer link
+#     url:  # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 
 social:
   - name: Twitter
     icon: twitter
-    username: Captain_Joannah
-    url: https://twitter.com/Captain_Joannah
+    username: Saidat_nanjuki
+    url: https://twitter.com/Saidat_nanjuki
     desc: Follow me on Twitter
     share: true
 
   - name: GitHub
     icon: github
-    username: nanjekyejoannah
-    url: https://github.com/nanjekyejoannah
+    username: saidatnanjuki
+    url: https://github.com/saidatnanjuki
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: nanjekye-joannah
-    url: https://www.linkedin.com/in/nanjekye-joannah/
+    username: saidat nanjuki
+    url: https://www.linkedin.com/in/saidat-nanjuki/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -91,25 +90,25 @@ social:
 
   - name: Disqus
     icon: disqus
-    username: joannahnanjekye 
+    username: saidatnanjuki 
     url:
     desc: Share to Hacker News
     share: false
 
 # Comments
-disqus_shortname: joannahnanjekye
+disqus_shortname: SaidatNanjuki
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/index.jpeg"
+    fb_image: "/assets/index.jpg"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/index.jpeg"
+    twitter_image: "/assets/index.jpg"
 
-    os_repo: "https://github.com/nanjekyejoannah/nanjekyejoannah.github.io"
+    os_repo: "https://github.com/saidatnanjuki/saidatnanjuki.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:nanjekyejoannah.github.io.git"
+    os_src: "git@github.com:saidatnanjuki.github.io.git"
