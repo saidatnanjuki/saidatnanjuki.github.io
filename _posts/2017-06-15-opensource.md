@@ -7,33 +7,6 @@ This is a tale of a dream come true. This story starts way back in 2016. I was w
 
 I kept reading people's Github profiles in admiration of especially people that had repositories in the category of "Repositories they contribute to". I wanted this on my profile too but did not know how to. I did not have many experienced developers in my circles atleast so this kind of information I did not get easily.
 
-One day I gave a talk at a meetup dubbed Geek night kampala on the transition from continous integration to delivery where I met some ladies who requested me to teach them alittle more on the topic a request I welcomed. After getting to know these ladies one of them told me about Rails Girls Summer of Code and suggested that we team up with her and apply for the same. Well we did and got accepted. This was the beginning to a dream coming true. I quit my job just before summer could begin in preparation for the golden opportunity.
-
-### First : Rails Girls Summer of Code
-
-My open source Journey began here. I was accepted with a friend of mine to work on a project called Qutebrowser. We were called [team Echo](https://teams.railsgirlssummerofcode.org/teams/162) from Uganda. [Qutebrowser](https://github.com/qutebrowser/qutebrowser) is a vim-like browser based on PYQT5. If you are a vim fanatic then you probably want to try it. The beauty about this browser is that you browse the web using commands. Any one ? I wanted to contribute to this project because I wanted something challenging to work on and a browser wasnt bad as it had alot of new things I wanted to learn.
-
-RGSoC was a huge success and a very memorable experience for me as I opened my first pull request then. The mentor was very welcoming and answered every question we asked him. I learned so much working on this project than even the experience I had from work. By and large I got to know that debugging is a very important skill when working on such big code bases, got to learn alot of python as I had been working with .Net and got to meet good people in the RGSoC community.
-
-Through RGSoC I was also able to get a diversity grant to attend and speak at pyconZA, an opportunity that I have cherished todate because the conference opened my mind to many ideas. I gave a talk on [how to contribute to open source](https://speakerdeck.com/pyconzacontributing-to-python-open-source-infrastructure-and-projects-by-joannah-nanjekye/)
-
-### Now : Ceph Outreachy Intern working on multilanguage RGW Testing
-
-After RGSoC which was September 2016, I attempted to apply for Outreachy in the December 2016 round with Mozzilla. I did not get through but one secret is you always learn alot through the application process. I did not get in but learned a new programming language Golang that am using on my current project. To be honest I felt so frustrated not being accepted but I can not underestimate the skills I got in the whole process. I however also noted the mistakes I had done.My proposal was not as good.
-
-I then decided to keep my open source fire alive because I had really longed to be an active contributor. I reached out to pypy mentors in December 2016 to guide me on contributing. I therefore continued contributing to pypy until Outreachy called for applications again for the March round. I will still open PRs to pypy.
-
-I applied again for the May Outreachy round and made sure I did not repeat the past mistakes however I think also luck plays a role in these kinda things because the Organisation you never expect actually accepts you. This round I applied to three companies. May 4th has been my most memorable day this year so far because on this day I signed a book contract with a publisher I have always wanted to work with and was accepted to outreachy. Double happiness right?
-
-#### About Ceph's Multilanguage RGW Testing project
-
-I applied to ceph because of how interesting the project was. I anticipated I would build alot of capacity from working with Amazon Web services and working in three languages(Go, Java and C++) on three different test suites. My ambitious mind really wanted this. 
-
-The project entails writing tests for aws using amazon Go, Java and C++ SDKS. RGW features an AWS s3 like interface against which tests are to be run. Ceph already had a python test suite that was testing RGW and my work was to extend the tests to the other three languages. 
-
-I am very willing to guide someone with my mentor if they want to contribute to these tests suites as well. There are many tests to implement so feel free to reach out if interested.
-
-### The Future : A luta continua
 
 My future in open source presents limitless opportunities. There are many places you can be but you will never be every where.I will consistently continue to contribute to the projects I have started especially with ceph. I have this passion for [PYPY](https://bitbucket.org/pypy/pypy) and believe it has a whole future a head of it because it is solving a common problem. I will thefore keep sending some patches to [pypy](https://bitbucket.org/pypy/pypy) and [qutebrowser](https://github.com/qutebrowser/qutebrowser) most likely after Outreachy because I have alot to do now.
 

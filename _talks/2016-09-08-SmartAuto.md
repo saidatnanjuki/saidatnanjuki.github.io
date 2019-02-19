@@ -5,6 +5,6 @@ event: "Smart Automation conference"
 event-fulltitle:
 event-url: 
 location: "Nairobi, Kenya"
-slides: "http://www.slideshare.net/njoannah/
+slides: "http://www.slideshare.net/nsaidat/
 the-way-ahead-how-drones-sensors-and-apps-are-rewriting-the-rules-in-agriculture"
 ---

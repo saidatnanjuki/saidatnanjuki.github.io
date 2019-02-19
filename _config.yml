@@ -1,17 +1,17 @@
 
 # Site settings
-title: Joannah Nanjekye
-name: Joannah Nanjekye
+title: Saidat Nanjuki
+name: Saidat Nanjuki
 subtitle: Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
-email: nnanjekyejoannah@gmail.com
+email: saidatnanjuki@gmail.com
+LinkedIn: saidat nanjuki
 description: >
   Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
 baseurl: ""
-url: "https://nanjekyejoannah.github.io/"
-twitter_username: Captain_Joannah
-github_username:  nanjekyejoannah
-disqus_baseurl: "https://nanjekyejoannah.github.io/"
-disqus_shortname: https-nanjekyejoannah-github-io
+url: "https://saidatnanjuki.github.io/"
+github_username:  saidatnanjuki
+disqus_baseurl: "https://saidatnanjuki.github.io/"
+disqus_shortname: https-saidatnanjuki-github-io
 permalink: :title
 cover: "/assets/sky2.jpeg"
 logo: "/assets/index.jpeg"

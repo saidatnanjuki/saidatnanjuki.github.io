@@ -5,5 +5,5 @@ event: "PyNairobi"
 event-fulltitle:
 event-url: 
 location: "Nairobi, Kenya"
-slides: "http://blog.pynbo.or.ke/pypy_by_joannah_nanjekye.html"
+slides: "http://blog.pynbo.or.ke/pypy_by_saidat_nanjuki.html"
 ---
